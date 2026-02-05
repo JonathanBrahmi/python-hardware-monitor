@@ -487,15 +487,6 @@ copies or substantial portions of the Software.
 
 ---
 
-## 📚 Related Projects
-
-Check out these related projects:
-
-- **[python-error-checker](https://github.com/JonathanBrahmi/python-error-checker)** - Python code analyzer with GUI
-- **[python-analyzer-react](https://github.com/JonathanBrahmi/python-analyzer-react)** - Full-stack code analyzer
-
----
-
 ## ⭐ If You Like This Project
 
 - ⭐ Star this repository
@@ -510,9 +501,7 @@ Check out these related projects:
 
 Have suggestions? Found a bug? Want to collaborate?
 
-- **Open an Issue:** https://github.com/JonathanBrahmi/python-hardware-monitor/issues
-- **Start a Discussion:** https://github.com/JonathanBrahmi/python-hardware-monitor/discussions
-- **Email:** [your-email@example.com]
+- **Email:** [brach2366@gmail.com]
 
 ---
 
@@ -540,7 +529,7 @@ This project demonstrates:
 
 ---
 
-**Made with ❤️ by Jonathan Brahmi**
+**Made with Copilot CLI by Jonathan brahmi**
 
 ---
 
