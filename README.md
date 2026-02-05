@@ -529,7 +529,7 @@ This project demonstrates:
 
 ---
 
-**Made with Copilot CLI by Jonathan brahmi**
+**Made with GitHub Copilot CLI by Jonathan brahmi**
 
 ---
 
