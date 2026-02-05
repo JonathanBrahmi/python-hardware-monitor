@@ -1,4 +1,4 @@
-# 💻 Python Hardware Monitor
+# 💻 Hardware Monitor + Hardware Info 
 
 A real-time hardware monitoring application with a modern GUI built with Python and Tkinter. Monitor your system's performance, disk usage, and network information in real-time.
 
